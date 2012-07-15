@@ -4,3 +4,11 @@ body{
 #makoto{
   float: left;
 }
+
+#head{
+  background-image:url('/img/banner.png');
+}
+*{
+  font-size: 18px;
+  line-height: 27px;
+}
