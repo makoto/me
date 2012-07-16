@@ -13,9 +13,7 @@ img.emblem{
 
 /* From http://www5d.biglobe.ne.jp/~kokkosan/sozaigoya/kabegamigoya/kabegami.html*/
 #head{
-/*  background-image:url('http://www5d.biglobe.ne.jp/~kokkosan/sozaigoya/kabegamigoya/sozai/KD003g.gif');*/
-  background-image:url('http://www5d.biglobe.ne.jp/~kokkosan/sozaigoya/kabegamigoya/sozai/KD003j.gif');
-/*  background-image:url('http://www5d.biglobe.ne.jp/~kokkosan/sozaigoya/kabegamigoya/sozai/KD003l.gif');*/
+  background-image:url('/img/banner.png');
 }
 *{
   font-size: 18px;
