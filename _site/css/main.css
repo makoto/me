@@ -1,0 +1,25 @@
+body{
+  background-color: #FCFBFD;
+}
+img.emblem{
+  margin-right: 20px;
+  float: left;
+}
+
+#summary{
+  margin: 10px;
+  line-height: 20px;
+}
+
+/* From http://www5d.biglobe.ne.jp/~kokkosan/sozaigoya/kabegamigoya/kabegami.html*/
+#head{
+  background-image:url('/img/banner.png');
+}
+*{
+  font-size: 18px;
+  line-height: 27px;
+}
+
+section {
+  padding-top: 30px;
+}
