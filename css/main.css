@@ -13,7 +13,7 @@ img.emblem{
 
 /* From http://www5d.biglobe.ne.jp/~kokkosan/sozaigoya/kabegamigoya/kabegami.html*/
 #head{
-  background-image:url('/img/banner.png');
+  background-image:url('./img/banner.png');
 }
 *{
   font-size: 18px;
