@@ -1,0 +1,3 @@
+safe: true
+source: http://github.com/makoto/makoto
+destination: public
